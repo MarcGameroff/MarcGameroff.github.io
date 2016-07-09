@@ -3,6 +3,17 @@ layout: post
 published: false
 ---
 
+
+<div style="text-align:center">Their philosophy is: 
+
+We strive, we sweat, we swear. 
+We go the extra mile. 
+We stage, we fail. 
+We try again. Get it right. 
+We learn. Connect. Come together. 
+Welcome to Metis.</div>
+
+
 <style type="text/css">
 .center-text
 {
@@ -21,6 +32,7 @@ Finally i get a text:
 "We don't see you."  
 I peered down the platform. <img src="/images/Grand_Central_Flushing_station.jpg">
 
+ddd
 
 <span class="center-text">The 4th of July fireworks were spectacular this year.</span>
  

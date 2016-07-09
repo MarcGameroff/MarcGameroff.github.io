@@ -1,7 +1,6 @@
 ---
 layout: post
-published: true
-date: 2016-07-05
+published: false
 ---
 
 <style type="text/css">
@@ -9,14 +8,10 @@ date: 2016-07-05
 {
   text-align: center;
 }
-
 </style>
 
-<span class="center-text">The 4th of July fireworks were spectacular this year.</span>
- 
-![fireworks1](/images/fireworks.png){: .center-image }
+Last week was my first week at Metis Data Science Bootcamp 
 
-![fireworks2](/images/fireworks.png){:height="36px" width="36px"}
 
 An hour before they burst above the East River, I was losing my mind on a subway platform. Bronx-bound ![]("/images/NYCS-bull-trans-7.svg.png")  trains were coming and going, my friends were supposed to meet me here 20 minutes ago and they're nowhere. Here I am in this <i>shmutsik</i> <img src="/images/small_grand_central_sign.jpg" height=50 width=300"> station, and we're gonna miss the fireworks. 
 ![](/images/gc42_in_data.png)
@@ -27,6 +22,11 @@ Finally i get a text:
 I peered down the platform. <img src="/images/Grand_Central_Flushing_station.jpg">
 
 
+<span class="center-text">The 4th of July fireworks were spectacular this year.</span>
+ 
+![fireworks1](/images/fireworks.png){: .center-image }
+
+![fireworks2](/images/fireworks.png){:height="36px" width="36px"}
 
 
 

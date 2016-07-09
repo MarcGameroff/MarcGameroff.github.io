@@ -6,12 +6,13 @@ published: true
 
 <div style="text-align:center">Their philosophy is: 
 
-We strive, we sweat, we swear. 
-We go the extra mile. 
-We stage, we fail. 
-We try again. Get it right. 
-We learn. Connect. Come together. 
-Welcome to Metis.</div>
+We strive, we sweat, we swear.  
+We go the extra mile.  
+We stage, we fail.  
+We try again. Get it right.  
+We learn. Connect. Come together.  
+Welcome to Metis.  
+</div>
 
 
 <style type="text/css">

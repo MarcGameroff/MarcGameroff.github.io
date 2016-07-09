@@ -1,17 +1,18 @@
 ---
 layout: post
-title: bb
 published: true
 date: 2016-07-05
 ---
 
 <style type="text/css">
-p {
-  border: 5px solid black;
+.center-text
+{
+  text-align: center;
 }
+
 </style>
 
-<p>The 4th of July fireworks were spectacular this year.</p>
+<span class="center-text">The 4th of July fireworks were spectacular this year.</span>
  
 ![fireworks1](/images/fireworks.png){: .center-image }
 

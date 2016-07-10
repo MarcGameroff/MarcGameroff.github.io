@@ -35,11 +35,14 @@ And dig <b>these</b> grateful folks:
 
 ![](/images/finally_1.png){: .box }
 
+
 ***
+
 
 Sometimes a discovery will play hide and seek. You've decrypted the kidnappers' location in time to mobilize the SWAT team and rescue an entire family and then you get a Mac analog of a [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death) before you can reliably memorize or transmit the location. Let's hope your doting aunt was right and you really <i>do</i> have a photographic memory after all. If not, be ready to repent:
 
 ![](/images/finally_2.png){: .box }
+
 
 ***
 

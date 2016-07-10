@@ -49,38 +49,29 @@ Sometimes a discovery will play <b>hide and seek</b>. It's like you've decrypted
 It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing "7" subway line. I was meeting up with a friend in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text volley began:  
 "Where are you?"  
 "I'm at the front end of the station."  
-"Me too. I don't see you."  
+"Me too. We don't see you."  
 "I'm right here."  
 "Where???"  
 "RIGHT HERE!!"  
 
-After a flood of delayed and increasingly frantic texts of the "Where are you?!" sort 
+Turns out <b>this</b> is what had happened:
 
+![](/images/them-me-fireworks.png)
 
-
-
-
-
-
-An hour before they burst above the East River, I was losing my mind on a subway platform. Bronx-bound ![]("/images/NYCS-bull-trans-7.svg.png")  trains were coming and going, my friends were supposed to meet me here 20 minutes ago and they're nowhere. Here I am in this <i>shmutsik</i> <station, and we're gonna miss the fireworks. 
-
-Finally i get a text:
-"We're here - where are you?"  
-"Right here," I answered.  
-"We don't see you."  
-I peered down the platform. <img src="/images/Grand_Central_Flushing_station.jpg">
-
-ddd
-
-<span class="center-text">The 4th of July fireworks were spectacular this year.</span>
- 
-![fireworks1](/images/fireworks.png){: .center-image }
-
-
-It was an honest mistake, but one I should have been alert to given what I’d been working on a few days earlier at Metis Data Science Bootcamp. There was a point where our team didn’t yet realize that the variable holding the station name in the MTA Turnstile dataset was similarly confusing.
-
-
+We'd gotten our wires crossed: They were waiting for me at the <i>Times Square</i>-42nd St. station and I was waiting for them at the <i>Grand Central</i>-42nd St. station. Ironic--or just plain silly--given that a week before, our Project Benson team was commenting on the annoying ambiguity of station names in some of the data files, to the point where we needed to refer to the latitude and longitude values to ensure we were properly identifying the stations. A sampling:
 
 ![](/images/gc42_in_data.png)
 ![](/images/ind_42nd_in_data.png)
 ![](/images/times_sq_in_data.png)
+
+***
+
+Anyhow, we made it to the fireworks with plenty of time to spare, and they were as dazzling and explosive as the next Aha! moment I'm bound to have in class. 
+
+![fireworks1](/images/fireworks.png){: .center-image }
+
+
+
+
+
+

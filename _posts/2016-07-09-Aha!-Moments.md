@@ -39,20 +39,23 @@ And dig <b>these</b> grateful folks:
 ***
 
 
-Sometimes a discovery will play hide and seek. You've decrypted the kidnappers' location in time to mobilize the SWAT team and rescue an entire family and then you get a Mac analog of a [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death) before you can reliably memorize or transmit the location. Let's hope your doting aunt was right and you really <i>do</i> have a photographic memory after all. If not, be ready to repent:
+Sometimes a discovery will play <b>hide and seek</b>. It's like you've decrypted the kidnappers' location in time to mobilize the SWAT team and rescue an entire family and then you get the Mac analog of a [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death) before you can reliably memorize or transmit the location. Let's hope your doting aunt was right and you really <i>do</i> have a photographic memory after all. If not, be ready to repent:
 
 ![](/images/finally_2.png){: .box }
 
 
 ***
 
+It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing "7" subway line. I was meeting up with a friend in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text volley began:  
+"Where are you?"  
+"I'm at the front end of the station."  
+"Me too. I don't see you."  
+"I'm right here."  
+"Where???"  
+"RIGHT HERE!!"  
 
+After a flood of delayed and increasingly frantic texts of the "Where are you?!" sort 
 
-
-
-you're getting slightly frustrated as the teacher starts down a path that  as the teacher  a problem's elusive solution suddenly comes into rigid focus and the sky seems to open up.
-
-[garden path sentence](https://en.wikipedia.org/wiki/Garden_path_sentence) and you have to recalibrate your attention or 
 
 
 
@@ -76,7 +79,7 @@ ddd
 
 It was an honest mistake, but one I should have been alert to given what I’d been working on a few days earlier at Metis Data Science Bootcamp. There was a point where our team didn’t yet realize that the variable holding the station name in the MTA Turnstile dataset was similarly confusing.
 
-Like when my friends and I got our wires crossed and ended up waiting for each other at the 42nd St. station, the only problem being that unbeknownst to us, we were two stations apart and seemingly every 7 station in Manhattan seem to have "42nd St" in its name.
+
 
 ![](/images/gc42_in_data.png)
 ![](/images/ind_42nd_in_data.png)

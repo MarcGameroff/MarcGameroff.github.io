@@ -3,7 +3,14 @@ layout: post
 published: false
 ---
 
-So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in with ten to go. I've already had some <i>Aha!</i> moments, which are some of my favorite moments in life. You know, like when you're working on a problem and the solution's elusive -- you're invested in it, and right before your brain gives out from the strain of perplexity, the answer  comes into rigid focus and you're as pleased and rewarded as a _______.  
+So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but what in the world is that beautiful Python comprehension doing under the hood that enabled you to save 5 lines of code, and then just as you think you might 
+
+
+
+
+
+
+right through the laptop screen as if the your  working on a problem and the solution's elusive -- you're invested in it, and right before your brain gives out from the strain of perplexity, the answer  comes into rigid focus and you're as pleased and rewarded as a _______.  
 
 
 

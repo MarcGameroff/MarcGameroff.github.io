@@ -17,20 +17,27 @@ published: true
 }
 </style>
 
-So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code, and then suddenly the logic and mechanism come into rigid focus and you understand WHY, like this dude:
+So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code, and then suddenly the logic and mechanism come into rigid focus and you understand WHY, like these folks:
+
 ![](/images/finally_5.png){: .box }
 
+![](/images/finally_4.png){: .box }
 
+![](/images/finally_6.png){: .box }
+
+And these folks, whose grateful attitude I often share:
 
 ![](/images/finally_1.png){: .box }
+
+![](/images/finally_3.png){: .box }
+
+
 
 
 
 ![](/images/finally_2.png){: .box }
-![](/images/finally_3.png){: .box }
-![](/images/finally_4.png){: .box }
 
-![](/images/finally_6.png){: .box }
+
 
 right through the laptop screen as if the your  working on a problem and the solution's elusive -- you're invested in it, and right before your brain gives out from the strain of perplexity, the answer  comes into rigid focus and you're as pleased and rewarded as a _______.  
 

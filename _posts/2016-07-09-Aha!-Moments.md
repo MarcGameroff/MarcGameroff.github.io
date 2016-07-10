@@ -19,9 +19,9 @@ published: true
 }
 </style>
 
-So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code and then suddenly the logic and mechanism come into rigid focus in your mind and you've finally understood <b>why</b>! It can be breathtaking. 
+So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science) has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad you made your code more Pythonic and all but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code and then suddenly the logic and mechanism come into rigid focus in your mind and you've finally understood <b>why</b>! It can be breathtaking. 
 
-I am not alone:
+Apparently I'm not alone:
 
 ![](/images/finally_5.png){: .box }
 
@@ -46,10 +46,10 @@ Sometimes a discovery will play <b>hide and seek</b>. It's like you've decrypted
 
 ***
 
-It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing "7" subway line. I was meeting up with a friend in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text volley began:  
+It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing "7" subway line. I was meeting up with some friends in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
 "Where are you?"  
 "I'm at the front end of the station."  
-"Me too. We don't see you."  
+"Us too. We don't see you."  
 "I'm right here."  
 "Where???"  
 "RIGHT HERE!!"  
@@ -66,7 +66,7 @@ We'd gotten our wires crossed: They were waiting for me at the <i>Times Square</
 
 ***
 
-Anyhow, we made it to the fireworks with plenty of time to spare, and they were as dazzling and explosive as the next Aha! moment I'm bound to have in class. 
+Anyhow, we made it to the fireworks with plenty of time to spare, and they were as dazzling and explosive as the next Aha! moment I'm likely to have in class. 
 
 ![fireworks1](/images/fireworks.png){: .center-image }
 

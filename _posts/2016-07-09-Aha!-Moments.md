@@ -6,7 +6,7 @@ published: true
 <style type="text/css">
 .box
 {
-  border:2px solid #A9A9A9
+  border:2px solid black
   padding:1px;
   margin-left: auto;
   margin-right: auto;
@@ -33,15 +33,10 @@ And dig these <b>grateful</b> folks:
 
 ![](/images/finally_3.png){: .box }
 
-
-
-
+Sometimes a discovery will play hide and seek. You've decrypted the kidnappers' location in time to mobilize the SWAT team and rescue an entire family and then you get a Mac analog of a [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death) before you can reliably memorize or transmit the location. Let's hope your doting aunt was right and you really <i>do</i> have a photographic memory after all. If not, be ready to repent:
 
 ![](/images/finally_2.png){: .box }
 
-
-
-right through the laptop screen as if the your  working on a problem and the solution's elusive -- you're invested in it, and right before your brain gives out from the strain of perplexity, the answer  comes into rigid focus and you're as pleased and rewarded as a _______.  
 
 
 
@@ -50,9 +45,7 @@ you're getting slightly frustrated as the teacher starts down a path that  as th
 
 [garden path sentence](https://en.wikipedia.org/wiki/Garden_path_sentence) and you have to recalibrate your attention or 
 
-Time is flying, though, and I wish I could take more time to work on all the projects, challenges, presentations,  Week 3 starts tomorrow and time is flying! The first two weeks were challenging
-I'm not sure whether I'm about to give up, give in, or give out. 
-Or maybe I should swallow my pride and give it <it>up</i> -- for the fantastic instructors, staff, teaching assistants, my classmates, and myself. This is hard work 
+
 
 
 

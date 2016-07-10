@@ -19,8 +19,8 @@ published: true
 }
 .smallpic1
 {
-  height: 20%;
-  width: 20%;
+  height: 30px;
+  width: 30px;
 }
 
 

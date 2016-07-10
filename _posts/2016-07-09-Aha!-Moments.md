@@ -8,6 +8,8 @@ published: true
 {
   border:2px solid black;
   padding:1px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .center-text
 {

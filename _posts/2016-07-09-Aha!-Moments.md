@@ -6,7 +6,7 @@ published: true
 <style type="text/css">
 .box
 {
-  border:2px solid black;
+  border:2px solid blue;
   padding:1px;
   margin-left: auto;
   margin-right: auto;
@@ -17,7 +17,9 @@ published: true
 }
 </style>
 
-So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code, and then suddenly the logic and mechanism come into rigid focus and you understand WHY, like these folks:
+So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code and then suddenly the logic and mechanism come into rigid focus in your mind and you understand <b>why</b>! It can be breathtaking. 
+
+Observe and respect:
 
 ![](/images/finally_5.png){: .box }
 
@@ -25,7 +27,7 @@ So far, Metis data science bootcamp has been as rigorous and challenging as I th
 
 ![](/images/finally_6.png){: .box }
 
-And these <b>grateful</b> folks:
+And dig these <b>grateful</b> folks:
 
 ![](/images/finally_1.png){: .box }
 

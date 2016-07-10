@@ -17,7 +17,7 @@ published: true
 {
   text-align: center;
 }
-.smallpic
+.smallpic1
 {
   height: 20%;
   width: 20%;
@@ -55,7 +55,7 @@ Sometimes a discovery will play <b>hide and seek</b>. It's like you've decrypted
 
 ***
 
-It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic } subway line. I was meeting up with some friends in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
+It puts me in mind of a game of hide and seek that played out last week on some Manhattan platforms of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} subway line. I was meeting up with some friends in the Grand Central-42nd St. station so we could ride together to Long Island City to see the Fourth of July fireworks from another friend's 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
 "Where are you?"  
 "I'm at the front end of the station."  
 "Us too. We don't see you."  

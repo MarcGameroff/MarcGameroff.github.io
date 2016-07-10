@@ -6,7 +6,9 @@ published: true
 <style type="text/css">
 .box
 {
-  border:2px solid black
+  border-width: 15px;
+  border-color: #000000;
+  border-style:dashed;
   padding:1px;
   margin-left: auto;
   margin-right: auto;

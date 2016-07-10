@@ -15,10 +15,11 @@ published: true
 }
 </style>
 
-So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but what in the world is that beautiful Python comprehension doing under the hood that enabled you to save 5 lines of code, and then just as you think you might 
-
-
+So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code, and then suddenly the logic and mechanism come into rigid focus and you understand WHY, like this dude:
 ![](/images/finally_1.png){: .box }
+
+
+
 ![](/images/finally_2.png){: .box }
 ![](/images/finally_3.png){: .box }
 ![](/images/finally_4.png){: .box }

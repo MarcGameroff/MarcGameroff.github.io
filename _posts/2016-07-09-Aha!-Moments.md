@@ -8,7 +8,7 @@ published: true
 {
   border-width: 2px;
   border-color: #000000;
-  border-style:dashed;
+  border-style: solid;
   padding:1px;
   margin-left: auto;
   margin-right: auto;

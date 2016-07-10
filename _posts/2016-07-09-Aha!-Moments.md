@@ -15,7 +15,7 @@ published: true
 }
 .center-text
 {
-  text-align: center;
+  text-align:center;
 }
 .smallpic1
 {

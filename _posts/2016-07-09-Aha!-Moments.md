@@ -25,7 +25,7 @@ So far, Metis data science bootcamp has been as rigorous and challenging as I th
 
 ![](/images/finally_6.png){: .box }
 
-And these folks, whose grateful attitude I often share:
+And these <b>grateful</b> folks:
 
 ![](/images/finally_1.png){: .box }
 

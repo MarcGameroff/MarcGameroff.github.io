@@ -6,7 +6,7 @@ published: true
 <style type="text/css">
 .box
 {
-  border-width: 15px;
+  border-width: 2px;
   border-color: #000000;
   border-style:dashed;
   padding:1px;

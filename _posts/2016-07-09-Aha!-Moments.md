@@ -6,7 +6,7 @@ published: true
 <style type="text/css">
 .box
 {
-  border:2px solid gray
+  border:2px solid #A9A9A9
   padding:1px;
   margin-left: auto;
   margin-right: auto;

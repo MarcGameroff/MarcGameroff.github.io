@@ -3,9 +3,23 @@ layout: post
 published: true
 ---
 
+<style type="text/css">
+.box
+{
+  border:2px solid black;
+  padding:1px;
+}
+</style>
+
 So far, Metis data science bootcamp has been as rigorous and challenging as I thought it would be. We're two weeks in and I've already had some happifying <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad that you made your code more Pythonic and all, but what in the world is that beautiful Python comprehension doing under the hood that enabled you to save 5 lines of code, and then just as you think you might 
 
-![](/images/finally_1.png)
+
+<img src="/images/finally_1.png" style="padding:1px; border:2px solid black;">
+
+<img style='border:3px solid #000000' src="/images/finally_2.png" />
+
+
+![](/images/finally_1.png){: .box }
 ![](/images/finally_2.png)
 ![](/images/finally_3.png)
 ![](/images/finally_4.png)

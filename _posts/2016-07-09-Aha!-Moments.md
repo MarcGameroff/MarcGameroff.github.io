@@ -28,7 +28,7 @@ published: true
 
 </style>
 
-So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science) has been as rigorous and challenging as I thought it would be. Satisfying, too. We're two weeks in and I've already had some exciting <i>Aha!</i> moments. You know, like when you're sitting with your pair programming partner, staring dumbly at the laptop screen as if that's gonna explain why the list comprehension you cooked up actually worked, and you're glad you made your code more Pythonic and all but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code and then suddenly the logic and mechanism come into rigid focus in your mind and you've finally understood <b>why</b>! It can be breathtaking. 
+So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science) has been as rigorous and challenging as I thought it would be. Satisfying, too. We're two weeks in and I've already had some exciting <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring dumbly at the laptop screen as if that's gonna explain why the [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up actually worked, and you're glad you made your code more [Pythonic](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) and all but how in the world is that beautiful Python comprehension working under the hood and enabling you to save 5 lines of code and then suddenly the logic and mechanism come into rigid focus in your mind and you've finally understood <b>why</b>! It can be breathtaking. 
 
 Apparently I'm not alone:
 

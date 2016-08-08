@@ -39,7 +39,7 @@ published: false
 
 ![](/images/self-harm/self_harm.png){: .box }
 ![](/images/self-harm/self-harm-map.png){: .box }
-![](/images/self-harm/self-harm-map.png){: .box }
+
 
 ![fireworks1](/images/self_harm_diagram.jpg){: .center-image }
 

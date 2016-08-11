@@ -27,7 +27,7 @@ published: true
 
 .medpic1
 {
-  height: 400px;
+  height: 200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -45,8 +45,8 @@ The survey is carefully designed, and rate estimates derived from it are nationa
 
 and I used no more than 20 variables to build a feature set to predict whether the physician specified that the injury had been intentional or non-intentional. This was a specific question on the visit form that participating doctors filled out for every patient contact during a randomly selected week in 2012.  I modeled a classifier that identified 79% of the cases of self-injury in a held-out testing dataset. The only way to capture that many of the cases was at the expense of a high false positive rate. 
 
-So far I’ve discovered one machine learning project concerned with non-suicidal self-injurious behavior, at MIT MEDIA LAB (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
-). It appears to be in the development stage and seems to be well funded.
+So far I’ve discovered one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB] (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
+). 
 
 
 

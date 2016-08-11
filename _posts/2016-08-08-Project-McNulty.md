@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 <style type="text/css">
@@ -18,6 +18,9 @@ published: false
 .center-text
 {
   text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .smallpic1
@@ -53,6 +56,7 @@ The survey is carefully designed, and rate estimates derived from it are nationa
 
 
 ![](/images/self-harm/injury_question.png){: .center}
+
 ![](/images/self-harm/injury_question.png){: .center-text}
 
 

@@ -21,6 +21,8 @@ published: true
 {
   height: 20px;
   width: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 </style>
@@ -52,7 +54,6 @@ So far I’ve discovered one machine learning project concerned with non-suicida
 ![](/images/self-harm/self-harm-map.png){: .box }
 
 
-![fireworks1](/images/self_harm_diagram.jpg){: .center-image }
 
 ***
 

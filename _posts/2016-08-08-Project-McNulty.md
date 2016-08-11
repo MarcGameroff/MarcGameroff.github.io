@@ -51,7 +51,7 @@ The survey is carefully designed, and rate estimates derived from it are nationa
 
 
 
-![](/images/self-harm/injury_question.png){: width="80px" style="center" }
+![](/images/self-harm/injury_question.png){: width="80px" : style="center" }
 
 
 

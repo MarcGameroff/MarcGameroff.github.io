@@ -4,6 +4,7 @@ published: true
 ---
 
 <style type="text/css">
+
 .box
 {
   border-width: 2px;
@@ -13,10 +14,12 @@ published: true
   margin-left: auto;
   margin-right: auto;
 }
+
 .center-text
 {
   text-align:center;
 }
+
 .smallpic1
 {
   height: 20px;
@@ -33,9 +36,9 @@ published: true
 }
 
 .center {
+  display: inline-block;
   text-align: center;
 }
-
 
 </style>
 
@@ -48,7 +51,10 @@ The survey is carefully designed, and rate estimates derived from it are nationa
 
 
 
-![](/images/self-harm/injury_question.png){:height="200px" .center}.
+![](/images/self-harm/injury_question.png){: style="center"; width="100px"}
+
+
+
 
 
 

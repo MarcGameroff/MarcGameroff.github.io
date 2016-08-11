@@ -20,7 +20,7 @@ published: true
   text-align:center;
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
+  width: 200;
 }
 
 .smallpic1

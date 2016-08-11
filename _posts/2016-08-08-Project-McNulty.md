@@ -52,13 +52,13 @@ So far I’ve discovered one machine learning project concerned with non-suicida
 
 ![](/images/self-harm/005008-0216-01-eng_clip_image006.gif){: .medpic1}
 
-![](/images/self-harm/Self-injurious%20throughts%20and%20behaviors%2075.png){: .box }
+![](/images/self-harm/Self-injurious%20throughts%20and%20behaviors%2075.png){: .medpic1}
 
 
-![](/images/self-harm/self-harm cycle_1.jpg){: .box }
+![](/images/self-harm/self-harm cycle_1.jpg){: .medpic1}
 
-![](/images/self-harm/self_harm.png){: .box }
-![](/images/self-harm/self-harm-map.png){: .box }
+![](/images/self-harm/self_harm.png){: .medpic1}
+![](/images/self-harm/self-harm-map.png){: .medpic1}
 
 
 

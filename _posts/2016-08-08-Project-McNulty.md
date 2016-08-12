@@ -55,7 +55,7 @@ Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps)
 The survey is carefully designed, and rate estimates derived from it are nationally representative of outpatient visits in the U.S. There were over 70,000 medical visits sampled in 2012 (the latest year for which full data were available), and more than 600 variables are [available for public use](http://www.cdc.gov/nchs/ahcd/ahcd_questionnaires.htm). I restricted my analysis to the ~2,500 injury-related visits. Here is the relevant area on the visit form:
 
 
-
+<p style="text-align:center;"><img src="https://github.com/MarcGameroff/MarcGameroff.github.io/tree/master/images/self-harm/injury_question.png"></p>
 
 ![](/images/self-harm/injury_question.png){: .center}
 

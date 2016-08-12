@@ -62,22 +62,16 @@ Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps)
 
 
 
-The survey is carefully designed, and rate estimates derived from it are nationally representative of outpatient visits in the U.S. There were over 70,000 medical visits sampled in 2012 (the latest year for which full data were available), and more than 600 variables are [available for public use](http://www.cdc.gov/nchs/ahcd/ahcd_questionnaires.htm). I restricted my analysis to the ~2,500 injury-related visits. Here is the relevant area on the visit form:
+The survey is carefully designed, and rate estimates derived from it are nationally representative of outpatient visits in the U.S. There were over 70,000 medical visits sampled in 2012 (the latest year for which full data were available), and more than 600 variables are [available for public use](http://www.cdc.gov/nchs/ahcd/ahcd_questionnaires.htm). I restricted my analysis to the ~2,500 injury-related visits. 
 
+<center><img src="../images/self-harm/injury_question.png" alt="" width="300"></center>
 
+The only available patient [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) that were associated with injury intentionality were age and mental disorder status. Younger patients were significantly more likely to self-injure, as were patients for whom the physician listed at least one [ICD-9-CM mental disorder](https://en.wikipedia.org/wiki/List_of_ICD-9_codes_290%E2%80%93319:_mental_disorders). On the strength of those two features, I was able to develop a classifier that correctly identified 79% of the cases of self-injury in a held-out testing dataset. This is called the [recall](https://en.wikipedia.org/wiki/Precision_and_recall#Recall) rate, which is the percentage of positive cases that were identified as positive. The "price" for achieving that rather high recall rate was very low [precision](https://en.wikipedia.org/wiki/Precision_and_recall#Precision), which means that the classifier also wrongly identified many non-intentional cases as intentional. With a larger dataset and additional features, I hope to be able to improve on precision. 
 
-<img src="../images/self-harm/injury_question.png" class="centerImage" alt="what image shows" width="300">
-
-![](img src="../images/self-harm/injury_question.png" class="centerImage" alt="what image shows" width="300")
-
-![](img src="../images/self-harm/injury_question.png" class="centerImage" width="300")
-
-and I used no more than 20 variables to build a feature set to predict whether the physician specified that the injury had been intentional or non-intentional. This was a specific question on the visit form that participating doctors filled out for every patient contact during a randomly selected week in 2012.  I modeled a classifier that identified 79% of the cases of self-injury in a held-out testing dataset. The only way to capture that many of the cases was at the expense of a high false positive rate. 
-
-So far I’ve discovered one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB] (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
+Since completing my analysis, I've found one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB] (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
 ). 
 
-<center><img src="../images/self-harm/injury_question.png" alt="" height="150" width="200"></center>
+
 
 
 ![](/images/self-harm/005008-0216-01-eng_clip_image006.gif){: .medpic1}

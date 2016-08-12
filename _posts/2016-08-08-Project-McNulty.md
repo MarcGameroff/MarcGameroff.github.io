@@ -3,8 +3,6 @@ layout: post
 published: true
 ---
 
-ROUGH ROUGH ROUGH DRAFT
-
 <style type="text/css">
 
 .box
@@ -58,7 +56,11 @@ display:block;
 
 
 
-Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps), each of us presented our third projects (dubbed 'McNulty'), for which our basic task was to use machine learning techniques to train, test, and assess the prediction performance of a categorical classifier. I chose to use data from the 2012 [National Ambulatory Medical Care Survey](http://www.cdc.gov/nchs/ahcd/index.htm) to see how well I could predict whether an injury or poisoning treated by a physician was intentionally self-inflicted. My hunch is that intentional self-injury will not always be identified as such, at least when the injury is mild enough to be treated in an outpatient setting. The better we can identify patient characteristics associated with a physician assessing an injury as self-inflicted, the better we might be able to inform other physicians--including ones not inclined to suspect self-injury when an injury seems consistent with accidental injury. 
+Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps), each of us presented our third projects (dubbed 'McNulty'). Our task was to use machine learning techniques to train, test, and assess the prediction performance of a categorical classifier. I chose to use data from the 2012 [National Ambulatory Medical Care Survey](http://www.cdc.gov/nchs/ahcd/index.htm) to see how well I could predict whether an injury or poisoning treated by a physician was intentionally self-inflicted. My hunch is that intentional self-injury will not always be identified as such, especially when the injury is mild enough to be treated in an outpatient setting. 
+
+
+
+The better we can identify patient characteristics associated with a physician assessing an injury as self-inflicted, the better we might be able to inform other physicians--including ones not inclined to suspect self-injury when an injury seems consistent with accidental injury. 
 
 
 

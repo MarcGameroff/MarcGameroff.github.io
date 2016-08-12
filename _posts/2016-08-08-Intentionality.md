@@ -77,11 +77,9 @@ The only available patient [features](https://en.wikipedia.org/wiki/Feature_(mac
 
 <center><img src="../images/self-harm/poc.png" alt="" width="400"></center>
 
-
+***
 
 The better we can identify patient characteristics associated with a physician assessing an injury as self-inflicted, the better we might be able to inform other physicians--including ones not inclined to suspect self-injury when an injury seems consistent with having had an accident. 
-
-***
 
 Since completing my analysis, I've found one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB](https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
 ). 

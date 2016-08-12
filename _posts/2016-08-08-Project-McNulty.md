@@ -77,7 +77,7 @@ The only available patient [features](https://en.wikipedia.org/wiki/Feature_(mac
 
 ** put ROC curves here **
 
-Since completing my analysis, I've found one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB] (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
+Since completing my analysis, I've found one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB](https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
 ). 
 
 

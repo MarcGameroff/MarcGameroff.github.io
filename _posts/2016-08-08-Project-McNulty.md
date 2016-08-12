@@ -61,7 +61,7 @@ A free, comprehensive, and clearly written article on self-injurious behavior is
 
 This flowchart highlights some of the complexity involved in distinguishing different types of self-harm. 
 
-<center><img src="../images/self-harm/005008-0216-01-eng_clip_image006.gif" alt="" width="300"></center>
+<center><img src="../images/self-harm/005008-0216-01-eng_clip_image006.gif" alt="" width="500"></center>
 
 Looking at the bottom of the chart, you can see that intentional self-injury may or may not be accompanied by suicidal intent. This can be difficult to assess, as many who self-injure are reluctant to discuss their motivations with a physician. However, it is known that intentional self-injury increases the risk of subsequent suicidal behavior. This makes identifying intentional self-injury in primary care    
 
@@ -79,16 +79,6 @@ The only available patient [features](https://en.wikipedia.org/wiki/Feature_(mac
 
 Since completing my analysis, I've found one machine learning project concerned with non-suicidal self-injurious behavior, at [MIT MEDIA LAB] (https://www.media.mit.edu/research/groups/1447/valinor-mathematical-models-understand-and-predict-self-harm
 ). 
-
-
-
-
-
-
-![](/images/self-harm/Self-injurious%20throughts%20and%20behaviors%2075.png){: .medpic1}
-
-
-
 
 
 

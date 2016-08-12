@@ -59,7 +59,7 @@ Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps)
 
 A free, comprehensive, and clearly written article on self-injurious behavior is available [here]("240.full.pdf"). It describes the prevalence of self-injury, the relationship of self-injury to psychiatric disorders and suicidal behavior, how self-injury is assessed, what motivates it, and how it is treated, particularly in primary care.  
 
-This flowchart highlights some of the complexity involved in distinguishing different types of self-harm. 
+This flowchart* highlights some of the complexity involved in distinguishing different types of self-harm. 
 
 <center><img src="../images/self-harm/005008-0216-01-eng_clip_image006.gif" alt="" width="500"></center>
 
@@ -81,6 +81,7 @@ Since completing my analysis, I've found one machine learning project concerned 
 ). 
 
 
+*downloaded from  [www.csc-scc.gc.ca](http://www.csc-scc.gc.ca/research/005008-0216-01-eng.shtml) 
 
 ***
 

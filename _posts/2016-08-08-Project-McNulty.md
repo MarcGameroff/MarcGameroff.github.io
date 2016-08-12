@@ -46,7 +46,17 @@ ROUGH ROUGH ROUGH DRAFT
   width: 100px;
 }
 
+.centerImage
+{
+text-align:center;
+display:block;
+}
+
 </style>
+
+
+
+
 
 Yesterday at [Metis bootcamp](http://www.thisismetis.com/data-science-bootcamps), each of us presented our third projects (dubbed 'McNulty'), for which our basic task was to use machine learning techniques to train, test, and assess the prediction performance of a categorical classifier. I chose to use data from the 2012 [National Ambulatory Medical Care Survey](http://www.cdc.gov/nchs/ahcd/index.htm) to see how well I could predict whether an injury or poisoning treated by a physician was intentionally self-inflicted. My hunch is that intentional self-injury will not always be identified as such, at least when the injury is mild enough to be treated in an outpatient setting. The better we can identify patient characteristics associated with a physician assessing an injury as self-inflicted, the better we might be able to inform other physicians--including ones not inclined to suspect self-injury when an injury seems consistent with accidental injury. 
 
@@ -63,7 +73,7 @@ The survey is carefully designed, and rate estimates derived from it are nationa
 
 
 
-
+<img src="images/self-harm/injury_question.png" class="centerImage" alt="what image shows" height="120" width="350">
 
 and I used no more than 20 variables to build a feature set to predict whether the physician specified that the injury had been intentional or non-intentional. This was a specific question on the visit form that participating doctors filled out for every patient contact during a randomly selected week in 2012.  I modeled a classifier that identified 79% of the cases of self-injury in a held-out testing dataset. The only way to capture that many of the cases was at the expense of a high false positive rate. 
 

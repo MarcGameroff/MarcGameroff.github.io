@@ -57,7 +57,7 @@ display:block;
 
 Yesterday at [Metis Data Science Bootcamp](http://www.thisismetis.com/data-science-bootcamps), each of us presented our third projects (dubbed 'McNulty'). Our task was to use machine learning techniques to train, test, and assess the prediction performance of a categorical classifier. I chose to use data from the 2012 [National Ambulatory Medical Care Survey](http://www.cdc.gov/nchs/ahcd/index.htm) to see how well I could predict whether an injury or poisoning treated by a physician had been intentionally self-inflicted or not. My hunch is that intentional self-injury will not always be identified as such, especially when the injury is mild enough to be treated in an outpatient setting. 
 
-Why do some people intentionally, often repeatedly, injure themselves? [This article](240.full.pdf) provides a good background, describing the prevalence of intentional self-injury, its relationship to psychiatric disorders and suicidal behavior, what motivates it, and how it's assessed and treated, particularly in primary care. 
+Why do some people intentionally, often repeatedly, injure themselves? [This article](http://www.jabfm.org/content/23/2/240.full.pdf) provides a good background, describing the prevalence of intentional self-injury, its relationship to psychiatric disorders and suicidal behavior, what motivates it, and how it's assessed and treated, particularly in primary care. 
 
 This flowchart* highlights some of the complexity involved in distinguishing different types of self-harm: 
 

@@ -28,37 +28,32 @@ published: true
 
 </style>
  
-So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s been as rigorous and satisfying as I thought it would be. Two weeks in and we've had our fair share of <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring at the laptop screen like that's gonna explain how the nested [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up together actually worked, and you're glad you're coding more [Pythonically](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) by the minute, but how is that thing working under the hood and enabling you to save 5 lines of code? One minute it's gobbledygook. And then it isn't. Its logic snaps into rigid focus and you get it. Mind fairly blown.
+So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s been as rigorous and satisfying as I thought it would be. Two weeks in and we've had our fair share of <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring at the laptop screen like that's gonna explain how the nested [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up together actually worked, and you're glad you're coding more [Pythonically](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) by the minute, but how is that thing working under the hood and enabling you to save 5 lines of code? One minute it's gobbledygook. And then it isn't. Its logic snaps into rigid focus and you get it. Mind a bit blown.
 
 <p align="center">Apparently I'm not alone:</p>
 
-![](/images/finally_5.png){: .box }</p>
+![](/images/finally_5.png){: .box }
 
 <p align="center">Raw joy here:</p>
 
 ![](/images/finally_4.png){: .box }
 
-<p align="center">Yes, recursion's as mysterious as anything. Until is isn't:</p>
+<p align="center">Recursion's as mysterious as anything. Until is isn't:</p>
 
 ![](/images/finally_3.png){: .box }
 
-And getting an inheritance is sweet. But <b>getting [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))</b> can be even sweeter: 
+And getting an inheritance is sweet. But <i>getting [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))</i> can be even sweeter: 
 
 ![](/images/finally_1.png){: .box }
 
-</p>
-
-***
-
-
-Sometimes a discovery plays <b>hide and seek</b>. Like in that dream where you've finally cracked the kidnappers' location and it flashes on your screen for a second and all you have to do is hit <Enter> to transmit it to the SWAT commander and PFFT! your screen dies and your machine spontaneously combusts. Whoops. Let's hope your third grade teacher was right and you really <i>do</i> have a photographic memory. If not, be ready to repent:
-
-![](/images/finally_2.png){: .box }
 
 
 ***
 
-Last week, a game of hide and seek really did play out on the Manhattan side of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} line. I was meeting up with some friends in the *ahem* Grand Central-42nd St. station to ride out to Long Island City to see the Fourth of July fireworks from a friend's envy-enducing 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
+
+Sometimes a discovery plays <b>hide and seek</b>. Like in that dream where you've cracked the kidnappers' location and it flashes on your screen for a second and before you can hit ENTER to transmit it to the SWAT commander-- PFFT! Your machine spontaneously combusts. Whoops. Let's hope your third grade teacher was right and you really <i>do</i> have a photographic memory. 
+
+Last week, a game of real hide and seek really played out on the Manhattan side of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} line. I was meeting up with some friends in the *ahem* Grand Central-42nd St. station to ride out to Long Island City to see the Fourth of July fireworks from a friend's envy-enducing 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
 "Where are you?"  
 "I'm at the front end of the platform."  
 "Us too. We don't see you."  

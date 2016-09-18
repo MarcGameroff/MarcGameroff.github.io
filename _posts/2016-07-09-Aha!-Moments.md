@@ -85,8 +85,3 @@ The fireworks were dazzling, BTW. Spontaneous combustion of the best kind.
 
 ![fireworks1](/images/fireworks.png){: .center-image }
 
-
-
-
-
-

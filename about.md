@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Currently studying at Metis Data Science Bootcamp.
+Recently graduated Metis Data Science Bootcamp. 
+
+Looking for new opportunities.
 
 ### Contact me
 

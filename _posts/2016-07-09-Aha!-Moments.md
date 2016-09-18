@@ -52,11 +52,7 @@ And getting an inheritance is sweet. But <i>getting [inheritance](https://en.wik
 ***
 
 
-Sometimes a discovery plays <b>hide and seek</b>. Like in that dream where you've cracked the kidnappers' location and it flashes on your screen and before you can hit ENTER to send it to the SWAT commander--PFFT! Your machine spontaneously combusts. 
-
-Whoops. 
-
-Let's hope your third grade teacher was right and you really <i>do</i> have a photographic memory. 
+Sometimes a discovery plays <b>hide and seek</b>. Like in that dream where you've cracked the kidnappers' location and it flashes on your screen and before you can hit ENTER to send it to the SWAT commander--PFFT! Your machine spontaneously combusts. Whoops. Let's hope your third grade teacher was right and you really <i>do</i> have a photographic memory. 
 
 Last week, a game of real hide and seek played out on the Manhattan side of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} line. I was meeting up with some friends in the (*ahem*) Grand Central-42nd St. station to ride out to Long Island City to see the Fourth of July fireworks from a friend's envy-enducing 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
 "Where are you?"  

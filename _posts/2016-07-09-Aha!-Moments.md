@@ -28,19 +28,25 @@ published: true
 
 </style>
  
-So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s been as rigorous and satisfying as I thought it would be. Two weeks in and we've had our fair share of <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring at the laptop screen like that's gonna explain how the [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up together actually worked, and you're glad you're coding more [Pythonically](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) by the minute, but how is that thing working under the hood and enabling you to save 5 lines of code, and then suddenly its logic comes into rigid focus and you understand! Mind fairly blown.
+So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s been as rigorous and satisfying as I thought it would be. Two weeks in and we've had our fair share of <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring at the laptop screen like that's gonna explain how the nested [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up together actually worked, and you're glad you're coding more [Pythonically](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) by the minute, but how is that thing working under the hood and enabling you to save 5 lines of code, and then suddenly its logic comes into rigid focus and you understand! Mind fairly blown.
 
 Apparently I'm not alone:
 
 ![](/images/finally_5.png){: .box }
 
+And:
+
 ![](/images/finally_4.png){: .box }
+
+Plus:
 
 ![](/images/finally_6.png){: .box }
 
-Gratitude is everywhere:
+Recursion's as mysterious as anything. Until is isn't:
 
 ![](/images/finally_3.png){: .box }
+
+And inheritance is nicer when you don't just get it--you *get* it. 
 
 ![](/images/finally_1.png){: .box }
 

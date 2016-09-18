@@ -33,7 +33,7 @@ Apparently I'm not alone:
 ![](/images/finally_5.png){: .box }
 
 
-Raw joy here:
+Another example:
 
 ![](/images/finally_4.png){: .box }
 
@@ -58,7 +58,7 @@ Whoops.
 
 Let's hope your third grade teacher was right and you really <i>do</i> have a photographic memory. 
 
-Last week, a game of real hide and seek really played out on the Manhattan side of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} line. I was meeting up with some friends in the (*ahem*) Grand Central-42nd St. station to ride out to Long Island City to see the Fourth of July fireworks from a friend's envy-enducing 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
+Last week, a game of real hide and seek played out on the Manhattan side of the Flushing !["7"](/images/NYCS-bull-trans-7.svg.png){: .smallpic1} line. I was meeting up with some friends in the (*ahem*) Grand Central-42nd St. station to ride out to Long Island City to see the Fourth of July fireworks from a friend's envy-enducing 15th floor balcony. Ten minutes after our scheduled meetup time, the text rally began:  
 "Where are you?"  
 "I'm at the front end of the platform."  
 "Us too. We don't see you."  
@@ -79,7 +79,7 @@ Absurd, given that a week before at Metis, our project team was lamenting the an
 ![](/images/ind_42nd_in_data.png){: .center-image }
 ![](/images/times_sq_in_data.png){: .center-image }
 
-Learn everything you can from your data, starting with the very simple lesson that its ambiguities might not be due to erroneous or inss]ufficient documentation as much as a reflection of real-world ambiguity. I have no confidence that there isn't another "42nd St." station in my future that won't match up with someone else's, and the price for error will somehow involve that SWAT team again. 
+Learn everything you can from your data, starting with the very simple lesson that its ambiguities might not be due to erroneous or insufficient documentation as much as a reflection of real-world ambiguity. I have no confidence that there isn't another "42nd St." station in my future that won't match up with someone else's, and the price for error will somehow involve that SWAT team again. 
 
 The fireworks were dazzling, BTW. Spontaneous combustion of the best kind. 
 

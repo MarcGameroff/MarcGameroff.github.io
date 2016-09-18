@@ -23,22 +23,19 @@ published: true
   width: 20px;
 }
 
-
-
-
 </style>
  
 So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s been as rigorous and satisfying as I thought it would be. Two weeks in and we've had our fair share of <i>Aha!</i> moments. You know, like when you're sitting with your [pair programming](https://en.wikipedia.org/wiki/Pair_programming) partner, staring at the laptop screen like that's gonna explain how the nested [list comprehension](https://en.wikipedia.org/wiki/List_comprehension) you cooked up together actually worked, and you're glad you're coding more [Pythonically](http://stackoverflow.com/questions/25011078/what-does-pythonic-mean) by the minute, but how is that thing working under the hood and enabling you to save 5 lines of code? One minute it's gobbledygook. And then it isn't. Its logic snaps into rigid focus and you get it. Mind a bit blown.
 
-<p align="center">Apparently I'm not alone:</p>
+Apparently I'm not alone:
 
 ![](/images/finally_5.png){: .box }
 
-<p align="center">Raw joy here:</p>
+Raw joy here:
 
 ![](/images/finally_4.png){: .box }
 
-<p align="center">Recursion's as mysterious as anything. Until is isn't:</p>
+[Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science)#Recursive_programs)'s as mysterious as anything. Until is isn't:
 
 ![](/images/finally_3.png){: .box }
 

@@ -34,19 +34,15 @@ Apparently I'm not alone:
 
 ![](/images/finally_5.png){: .box }
 
-And:
+Raw joy here:
 
 ![](/images/finally_4.png){: .box }
 
-Plus:
-
-![](/images/finally_6.png){: .box }
-
-Recursion's as mysterious as anything. Until is isn't:
+Yes, recursion's as mysterious as anything. Until is isn't:
 
 ![](/images/finally_3.png){: .box }
 
-And inheritance is nicer when you don't just get it--you *get* it. 
+An inheritance is always nice to get. But getting [*inheritance*](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)) can be even sweeter: 
 
 ![](/images/finally_1.png){: .box }
 

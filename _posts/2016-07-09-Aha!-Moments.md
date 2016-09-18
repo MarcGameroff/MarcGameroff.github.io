@@ -32,10 +32,8 @@ So far, [Metis data science bootcamp](http://www.thisismetis.com/data-science)'s
 
 <p align="center">
   Apparently I'm not alone:
-
-  ![](/images/finally_5.png){: .box }
-
-
+ <img src="https://github.com/MarcGameroff/MarcGameroff.github.io/blob/master/images/finally_5.png">
+</p>
 
 
 
